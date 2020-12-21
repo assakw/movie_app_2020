@@ -3,6 +3,7 @@ function Food({ fav }) {
     return <h1>I Like {fav}</h1>;
 }
 
+//component
 function App() {
     return (
         <div>
